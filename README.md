@@ -16,6 +16,8 @@ A user will earn points for the neighborhood they selected when they signed up. 
 
 Each hood has its own profile page, which displays all of its sub-hoods, members, and ranking. All hoods are listed on a leaderboard, providing motivation for users to earn more points for their team.
 
+![Leaderboard](/public/screenshot-learderboard.jpg)
+
 User profiles are editable, and display username, name, hood, level, and total points. A user's level is based on the total number of points they have earned.
 
 There is a resource page with links to more information on recycling, compost, and garbage for users who want more information.
@@ -44,6 +46,7 @@ Live site is hosted at https://greenupseattle.herokuapp.com/
 
 ## Screenshot
 
+![Game](/public/screenshot-game-w.jpg)
 
 ## License
  MIT © jyang81
