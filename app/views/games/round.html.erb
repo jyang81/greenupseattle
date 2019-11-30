@@ -17,11 +17,11 @@
 
   <br>
   <%= form_tag ({controller: 'games', action: 'round', method: 'post'}) do %>
-    <input type="submit" name="commit" value="trash" data-disable-with="trash" style="background: url('/images/buttons/trash-button.png') no-repeat center center; width: 60px; height: 60px; margin: 0px 20px; border: none; color: transparent; border-radius: 5px">
+    <input type="submit" name="commit" value="trash" title="TRASH" data-disable-with="trash" style="background: url('/images/buttons/trash-button.png') no-repeat center center; width: 60px; height: 60px; margin: 0px 20px; border: none; color: transparent; border-radius: 5px">
 
-    <input type="submit" name="commit" value="recycling" data-disable-with="recycling" style="background: url('/images/buttons/recycle-button.png') no-repeat center center; width: 60px; height: 60px; margin: 0px 20px; border: none; color: transparent; border-radius: 5px">
+    <input type="submit" name="commit" value="recycling" title="RECYCLING" data-disable-with="recycling" style="background: url('/images/buttons/recycle-button.png') no-repeat center center; width: 60px; height: 60px; margin: 0px 20px; border: none; color: transparent; border-radius: 5px">
 
-    <input type="submit" name="commit" value="compost" data-disable-with="compost" style="background: url('/images/buttons/compost-button.png') no-repeat center center; width: 60px; height: 60px; margin: 0px 20px; border: none; color: transparent; border-radius: 5px">
+    <input type="submit" name="commit" value="compost" title="COMPOST" data-disable-with="compost" style="background: url('/images/buttons/compost-button.png') no-repeat center center; width: 60px; height: 60px; margin: 0px 20px; border: none; color: transparent; border-radius: 5px">
 
 
   <% end %>
