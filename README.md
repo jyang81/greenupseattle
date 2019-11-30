@@ -48,5 +48,9 @@ Live site is hosted at https://greenupseattle.herokuapp.com/
 
 ![Game](/public/screenshot-game-w.jpg)
 
+## Credits
+
+created by Joe Yang ([@jyang81](https://github.com/jyang81)) and Abe Dolinger ([@256hz](https://github.com/256hz))
+
 ## License
  MIT © jyang81
