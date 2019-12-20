@@ -37,7 +37,7 @@ All of the waste items used in the game were taken directly from the city of Sea
 
 To run the app on your machine:
 ```
-$ git clone [REPO]
+$ git clone <repo-name>
 $ rails db:setup
 $ rails s
 ```
